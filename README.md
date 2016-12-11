@@ -14,6 +14,7 @@ Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in buil
 - http://www.i-programmer.info/news/136-open-source/8220-microsoft-puts-orleans-code-on-github.html
 - [GRPC](http://www.grpc.io/)
 - Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web - [Paper](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/consistent-hashing-and-random-trees.pdf)
+- [Dynamo: The paper that changed the database world](https://vimeo.com/144994937)
 - [RingPop](https://ringpop.readthedocs.io/) from Uber
 - [Slicer: Auto-sharding for datacenter applications](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf) Adya et al. (Google)  OSDI 2016
 - [Gizzard](https://github.com/twitter/gizzard) on Twitter OSS

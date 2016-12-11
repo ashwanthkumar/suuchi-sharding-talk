@@ -1,5 +1,5 @@
 ## Abstract
-At Indix, all systems deal with huge volumes of data, which means, they need to be distributed. We started out with using open source distributed systems (like Hadoop, HBase, Solr, Spark, etc) to help accomplish some of our needs. Along the way, we’ve also had some problems where existing solutions wouldn’t really work for the use cases that we had or there was a large operation overheard associated with them. This pushed us to build a couple of “simple” distributed systems. As we built these we also realized that there were some common set of things to these. And, thus we built [Suuchi](http://github.com/ashwanthkumar/https://ashwanthkumar.in
+At Indix, all systems deal with huge volumes of data, which means, they need to be distributed. We started out with using open source distributed systems (like Hadoop, HBase, Solr, Spark, etc) to help accomplish some of our needs. Along the way, we’ve also had some problems where existing solutions wouldn’t really work for the use cases that we had or there was a large operation overheard associated with them. This pushed us to build a couple of “simple” distributed systems. As we built these we also realized that there were some common set of things to these. And, thus we built [Suuchi](http://github.com/ashwanthkumar/suuchi)
 
 ## About Author
 Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in building and operating large data systems. When not dealing with data, he spends his time reading research papers in similar topics. 
@@ -36,5 +36,4 @@ Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in buil
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Suuchi - Toolkit for Application Layer Sharding</span> by [Ashwanth Kumar](https://ashwanthkumar.in) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
-Based on a work at [https://github.com/ashwanthkumar/suuchi](https://github.com/ashwanthkumar/suuchi).
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Suuchi - Toolkit for Application Layer Sharding</span> by [Ashwanth Kumar](https://ashwanthkumar.in) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Based on a work at [https://github.com/ashwanthkumar/suuchi](https://github.com/ashwanthkumar/suuchi).

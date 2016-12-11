@@ -12,6 +12,8 @@ Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in buil
 ## References
 - https://speakerdeck.com/caitiem20/building-scalable-stateful-services-1
 - http://www.i-programmer.info/news/136-open-source/8220-microsoft-puts-orleans-code-on-github.html
+- http://michaelnielsen.org/blog/consistent-hashing/
+- http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html
 - [GRPC](http://www.grpc.io/)
 - Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web - [Paper](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/consistent-hashing-and-random-trees.pdf)
 - [Dynamo: The paper that changed the database world](https://vimeo.com/144994937) from Christopher Batey
